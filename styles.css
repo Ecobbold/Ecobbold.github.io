@@ -2,3 +2,12 @@ body {
 	padding-bottom: 80px;
 	margin-top:60px;
 }
+.loader {
+	position: fixed;
+	left:0px;
+	top:0px;
+	width: 43px;
+	height:43px;
+	z-index: 9999;
+	background: url('FORMSF14.gif') 50% 50% no-repeat rgb(66, 66, 66);
+}
