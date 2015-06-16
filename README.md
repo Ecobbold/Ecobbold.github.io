@@ -1,3 +1,1 @@
-Ecobbold.github.io
-==================
-Thanks for reading.
+No one ever reads the READMEs. I'll get to it soon, I promise. Thanks for dropping by.
